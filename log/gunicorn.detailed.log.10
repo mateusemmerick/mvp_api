@@ -1,51 +1,51 @@
-[2023-04-28 00:23:52,327] INFO _log() L224   * Running on all addresses (0.0.0.0)
+[2023-05-02 23:38:42,744] INFO _log() L224   * Running on all addresses (0.0.0.0)
    WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:5000
- * Running on http://10.0.0.184:5000 (Press CTRL+C to quit) - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:23:52,346] INFO _log() L224   * Restarting with stat - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:24:01,820] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:24:01] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:24:01,827] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:24:01] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:24:01,829] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:24:01] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:24:57,495] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:24:57] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:24:57,528] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:24:57] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:24:57,605] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:24:57] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:25:35,674] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:25:35] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:25:35,675] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:25:35] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:25:35,683] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:25:35] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:27:24,353] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:27:24] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:27:24,369] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:27:24] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:27:24,436] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:27:24] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:27:35,506] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:27:35] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:27:35,941] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:27:35] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:27:36,372] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:27:36] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:27:43,512] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:27:43] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:27:44,070] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:27:44] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:27:44,884] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:27:44] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:29:08,721] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:29:08] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:29:08,772] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:29:08] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:29:08,796] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:29:08] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:30:16,600] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:30:16] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:30:16,665] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:30:16] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:30:16,682] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:30:16] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:30:48,735] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:30:48] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:30:48,739] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:30:48] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:30:48,751] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:30:48] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:31:21,761] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:31:21] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:31:21,768] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:31:21] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:31:21,792] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:31:21] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:31:53,155] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:31:53] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:31:53,884] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:31:53] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:31:54,462] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:31:54] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:32:45,477] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:32:45] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:32:45,478] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:32:45] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:32:45,494] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:32:45] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:36:28,828] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:36:28] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:36:28,833] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:36:28] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:36:28,836] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:36:28] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:37:23,268] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:37:23] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:37:23,284] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:37:23] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:37:23,286] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:37:23] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:38:31,477] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:38:31] "GET /saidas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:38:31,478] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:38:31] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:38:31,479] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:38:31] "GET /produtos HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
-[2023-04-28 00:38:38,013] INFO _log() L224  127.0.0.1 - - [28/Apr/2023 00:38:38] "GET /entradas HTTP/1.1" 200 - - call_trace=c:\Users\mateu\Desktop\MVP\.venv\Lib\site-packages\werkzeug\_internal.py L224 
+ * Running on http://10.0.0.184:5000 (Press CTRL+C to quit) - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-02 23:38:42,761] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-02 23:39:07,255] INFO _log() L224  127.0.0.1 - - [02/May/2023 23:39:07] "GET /produtos HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-02 23:39:07,261] INFO _log() L224  127.0.0.1 - - [02/May/2023 23:39:07] "GET /entradas HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-02 23:39:07,286] INFO _log() L224  127.0.0.1 - - [02/May/2023 23:39:07] "GET /saidas HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-02 23:39:24,877] INFO _log() L224  127.0.0.1 - - [02/May/2023 23:39:24] "GET /produtos HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-02 23:39:24,881] INFO _log() L224  127.0.0.1 - - [02/May/2023 23:39:24] "GET /entradas HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-02 23:39:24,894] INFO _log() L224  127.0.0.1 - - [02/May/2023 23:39:24] "GET /saidas HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:00:39,030] INFO _log() L224   * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.184:5000 (Press CTRL+C to quit) - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:00:39,037] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:00:44,955] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:00:44] "GET /produtos HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:00:44,960] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:00:44] "GET /entradas HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:00:44,971] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:00:44] "GET /saidas HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:46,653] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:46] "GET /saidas HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:46,656] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:46] "GET /produtos HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:46,707] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:46] "GET /entradas HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:56,879] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:56] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:57,186] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:57] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:57,211] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:57] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:57,268] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:57] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:57,818] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:57] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:58,909] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:58] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:59,284] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:59] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:59,293] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:59] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:59,372] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:59] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:59,418] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:59] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:59,428] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:59] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:01:59,588] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:01:59] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:02:32,386] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:02:32] "OPTIONS /produto/RL200 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:02:32,623] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:02:32] "POST /entrada HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:02:32,698] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:02:32] "PUT /produto/RL200 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:02:41,209] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:02:41] "OPTIONS /produto/RL150 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:02:41,395] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:02:41] "POST /entrada HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:02:41,489] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:02:41] "PUT /produto/RL150 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:12,368] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:12] "OPTIONS /produto/CC200 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:12,540] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:12] "POST /entrada HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:12,633] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:12] "PUT /produto/CC200 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:28,282] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:28] "OPTIONS /produto/FB200 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:28,483] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:28] "POST /entrada HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:28,574] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:28] "PUT /produto/FB200 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:39,974] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:39] "OPTIONS /saida?id=3 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:39,979] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:39] "OPTIONS /produto/RL150 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:40,125] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:40] "DELETE /saida?id=3 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:40,236] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:40] "PUT /produto/RL150 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 00:03:44,746] INFO _log() L224  127.0.0.1 - - [03/May/2023 00:03:44] "OPTIONS /saida?id=2 HTTP/1.1" 200 - - call_trace=C:\Users\mateu\Desktop\api\minha_api\Lib\site-packages\werkzeug\_internal.py L224 
